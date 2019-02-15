@@ -1,6 +1,6 @@
-#SSDUP+
+# SSDUP+
 ## Introduction
-SSDUP+ is a traffic-aware optimazation for Burst Buffer, which effectively solves the burden of Burst Buffer on large SSD capacity and overlapping computation with data flushing. The prototype of SSDUP+ is based on OrangeFS(http://www.orangefs.org/).
+SSDUP+ is a traffic-aware optimazation for Burst Buffer, which effectively solves the burden of Burst Buffer on large SSD capacity and overlapping computation with data flushing. The prototype of SSDUP+ is based on OrangeFS (http://www.orangefs.org/).
 
 ## How to use
 ### Start
