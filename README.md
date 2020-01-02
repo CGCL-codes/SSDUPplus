@@ -46,6 +46,7 @@ Other operations remain the same as orangefs
 
 ## Reference Paper
 >Xuanhua Shi, Ming Li, Wei Liu, Hai Jin, Chen Yu, and Yong Chen, "SSDUP: A Traffic-Aware SSD Burst Buffer for HPC Systems". in Proceedings of the ACM International Conference on Supercomputing (ICS), Chicago, Illinois, USA, June 13-16, 2017.
+>Xuanhua Shi, Wei Liu, Ligang He, Hai Jin, Ming Li, and Yong Chen, "Optimizing the SSD Burst Buffer by Traffic Detection", ACM Transactions on Architecture and Code Optimization, 2020.
 
 ## Support Or Contact
 If you have any questions, please contact Wei Liu (cccloude@hust.edu.cn)
